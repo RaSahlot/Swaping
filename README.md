@@ -6,4 +6,6 @@ a=5;
 b=10;
 c=a+b;
 printf("value of c is %d",c);
+float d=23.78;
+printf("%f",d);
 }
